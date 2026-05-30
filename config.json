@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "notifyuonnect",
+        "uuid": 9931594,
+        "checksum": "3i2jfk"
+    },
+    "settings": {
+        "retries": 2,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
